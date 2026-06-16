@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1781465303,
+	"version": 1781604844,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -72,6 +72,8 @@
 		"images/sprite74-sheet0.png",
 		"images/tamanajaib5-sheet0.png",
 		"images/tamanajaib5-sheet1.png",
+		"images/tamanajaib8-sheet0.png",
+		"images/tamanajaib10-sheet0.png",
 		"images/sprite76-sheet0.png",
 		"images/sprite78-sheet0.png",
 		"images/sprite79-sheet0.png",
