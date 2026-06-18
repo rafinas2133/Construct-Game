@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1781715716,
+	"version": 1781810245,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -155,6 +155,12 @@
 		"images/sprite171-sheet0.png",
 		"images/sprite172-sheet0.png",
 		"images/sprite173-sheet0.png",
+		"images/sprite177-sheet0.png",
+		"images/sprite177-sheet1.png",
+		"images/sprite179-sheet0.png",
+		"images/sprite180-sheet0.png",
+		"images/sprite181-sheet0.png",
+		"images/sprite183-sheet0.png",
 		"media/counting star parade.ogg",
 		"media/huruf a.ogg",
 		"media/huruf b.ogg",
@@ -211,6 +217,7 @@
 		"media/menghitung ikan.ogg",
 		"media/menghitung monyet.ogg",
 		"media/pembukaan level 1 angka.ogg",
+		"media/salah.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
