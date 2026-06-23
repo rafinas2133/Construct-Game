@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1782154576,
+	"version": 1782227173,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -79,8 +79,6 @@
 		"images/sprite74-sheet0.png",
 		"images/tamanajaib5-sheet0.png",
 		"images/tamanajaib5-sheet1.png",
-		"images/tamanajaib8-sheet0.png",
-		"images/tamanajaib10-sheet0.png",
 		"images/sprite75-sheet0.png",
 		"images/sprite76-sheet0.png",
 		"images/sprite78-sheet0.png",
@@ -150,6 +148,7 @@
 		"images/number_blocks_01_set_2_64x64_10-sheet0.png",
 		"images/sprite135-sheet0.png",
 		"images/sprite136-sheet0.png",
+		"images/tamanajaib16-sheet0.png",
 		"images/sprite140-sheet0.png",
 		"images/sprite141-sheet0.png",
 		"images/sprite148-sheet0.png",
