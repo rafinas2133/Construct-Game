@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1782390181,
+	"version": 1782408470,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -187,8 +187,8 @@
 		"images/sprite203-sheet0.png",
 		"images/sprite204-sheet0.png",
 		"images/sprite208-sheet0.png",
-		"images/sprite210-sheet0.png",
 		"images/sprite211-sheet0.png",
+		"images/sprite212-sheet0.png",
 		"media/counting star parade.ogg",
 		"media/huruf a.ogg",
 		"media/huruf b.ogg",
